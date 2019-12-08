@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7fba62812eb64b9a9314431cee186d6, type: 3}
   m_Name: 1_002
   m_EditorClassIdentifier: 
-  timing: 3.4
+  timing: 3.6
   lineNum: 1
   type: 1
   comboType: 0

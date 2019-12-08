@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7fba62812eb64b9a9314431cee186d6, type: 3}
   m_Name: 1_012
   m_EditorClassIdentifier: 
-  timing: 13.8
-  lineNum: 2
-  type: 2
-  comboType: 0
+  timing: 16.3
+  lineNum: 1
+  type: 5
+  comboType: 1
   comboMax: 0
