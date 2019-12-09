@@ -377,7 +377,7 @@ MonoBehaviour:
   timeToChange: 77
   finishDispTime: 3
   nextSceneNames:
-  - Game2
+  - Scenes/Game2
   finishObject: {fileID: 1992552163}
 --- !u!4 &19231812
 Transform:
@@ -1307,7 +1307,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.15
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1430,10 +1430,10 @@ MonoBehaviour:
   mTapEffect: {fileID: 1942896230751952, guid: f7660fe8b5d47204faad899571b44164, type: 3}
   ChangeSceneObject: {fileID: 19231810}
   buttonPos:
-  - {x: -460, y: -165}
-  - {x: -155, y: -165}
-  - {x: 160, y: -165}
-  - {x: 460, y: -165}
+  - {x: -460, y: -200}
+  - {x: -155, y: -200}
+  - {x: 160, y: -200}
+  - {x: 460, y: -200}
   debugPause: 0
   currentComboType: 0
   comboCount: 0
@@ -1822,7 +1822,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -100}
+  m_AnchoredPosition: {x: 0, y: -120}
   m_SizeDelta: {x: 653.9, y: 99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1510228574

@@ -836,7 +836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a525481c6e7743ac9f4b09cc9a24968, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Scenes/Game1
+  sceneName: Game1
   waitTime: 1
   BGM: {fileID: 1944188189}
 --- !u!1 &1831391469

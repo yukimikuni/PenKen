@@ -117,7 +117,7 @@ MonoBehaviour:
   isInLine: 0
   noteCount: 0
   yMin: -5
-  speed: 680
+  speed: 700
   comboType: 2
   comboMax: 2
   noteType: 0
