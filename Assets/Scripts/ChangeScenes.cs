@@ -32,7 +32,7 @@ public class ChangeScenes : MonoBehaviour
         var score = ScoreManager.score;
 
         // 30以下なら0番目
-        if (score <= 40)
+        if (score <= 45)
             return nextSceneNames[0];
 
         if (score <= 65)

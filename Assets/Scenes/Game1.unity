@@ -1171,7 +1171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f679f38e683ad4c5992caaa10e520510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeToChange: 78
+  timeToChange: 76
   finishDispTime: 1.5
   nextSceneNames:
   - Scenes/End 30
