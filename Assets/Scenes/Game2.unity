@@ -377,10 +377,10 @@ MonoBehaviour:
   timeToChange: 60
   finishDispTime: 1.5
   nextSceneNames:
-  - Scenes/End 30
-  - Scenes/End 50
-  - Scenes/End 70
-  - Scenes/End 100
+  - Scenes/End 30_2
+  - Scenes/End 50_2
+  - Scenes/End 70_2
+  - Scenes/End 100_2
   finishObject: {fileID: 649871598}
 --- !u!4 &19231812
 Transform:
